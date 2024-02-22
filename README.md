@@ -1,2 +1,0 @@
-# Chatbase
-Chatbase Testing
